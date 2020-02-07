@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fieldMapping>
+	<!-- 不同文档条目Category值配置-->
+	<documentType name="Test Suite">
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Software Unit Test" ></category>
+		<category name="Software Integration Test" ></category>
+		<category name="Software Qualification Test" ></category>
+		<category name="System Integration Test" ></category>
+		<category name="System Qualification Test" ></category>
+	</documentType>
+	<documentType name="Stakeholder Requirement Document"> 
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Imported Requirement" ></category>
+		<category name="Functional Requirement" ></category>
+		<category name="Non-Functional Requirement" ></category>
+		<category name="Critical Success Factor" ></category>
+		<category name="FSR" ></category>
+		<category name="TSR" ></category>
+		<category name="SSR" ></category>
+		<category name="HSR" ></category>
+		<category name="SM" ></category>
+	</documentType>
+	<documentType name="System Requirement Specification Document">
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Functional Requirement" ></category>
+		<category name="Non-Functional Requirement" ></category>
+		<category name="Functional Safety Requirement" ></category>
+		<category name="Information" ></category>
+		<category name="FSR" ></category>
+		<category name="TSR" ></category>
+		<category name="SSR" ></category>
+		<category name="HSR" ></category>
+		<category name="SM" ></category>
+	</documentType>
+	<documentType name="Software Requirement Specification Document"> 
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Functional Requirement" ></category>
+		<category name="Non-Functional Requirement" ></category>
+		<category name="Functional Safety Requirement" ></category>
+		<category name="Information" ></category>
+		<category name="FSR" ></category>
+		<category name="TSR" ></category>
+		<category name="SSR" ></category>
+		<category name="HSR" ></category>
+		<category name="SM" ></category>
+	</documentType>
+	<documentType name="System Architectural Design Specification Document"> 
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Specification" ></category>
+	</documentType>
+	<documentType name="Software Architectural Design Specification Document">
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Specification" ></category>
+	</documentType>
+	<documentType name="Software Detail Design Specification Document"> 
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Specification" ></category>
+	</documentType>
+	<documentType name="Hardware Requirement Specification Document"> 
+		<category name="Heading" ></category>
+		<category name="Comment" ></category>
+		<category name="Functional Requirement" ></category>
+		<category name="Non-Functional Requirement" ></category>
+		<category name="Functional Safety Requirement" ></category>
+		<category name="Information" ></category>
+		<category name="FSR" ></category>
+		<category name="TSR" ></category>
+		<category name="SSR" ></category>
+		<category name="HSR" ></category>
+		<category name="SM" ></category>
+		<category name="Recommendation" ></category>
+	</documentType>
+</fieldMapping>
+
+
